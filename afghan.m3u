@@ -17,10 +17,10 @@ http://o2nbyj76y53k-hls-live.5centscdn.com/459_push_365/afganplaylistNaweentv/li
 #EXTINF:-1 tvg-id="7" tvg-name="Afghan Nobel TV" tvg-logo="https://yt3.googleusercontent.com/aJz1fGyoTfuDFQ2-dc3_FksVbozSMbqOlThzn3KuHYjye8cTRVCUl41O_jiBF0YVhZ94oaUG=s160-c-k-c0x00ffffff-no-rj" group-title="Afghan",Afghan Nobel TV
 https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8#KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="1TV Afghan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/1TV_Logo.webp/220px-1TV_Logo.webp.png" group-title="Afghan",1TV Afghan
-https://cdn1.live.af/live/1tv.m3u8
+https://tgn.bozztv.com/eshgtv-dvrfl05/gin-1tvafg/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="Arezo TV" tvg-logo="https://pbs.twimg.com/profile_images/3585554691/0a92c6ee2e5e8cb463cb7b398c3d4750_400x400.png" group-title="Afghan",Arezo TV
-http://hw2.jemtv.com/app/arezotv/chunks.m3u8
+https://tgn.bozztv.com/eshgtv-dvrfl05/gin-arezotv/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="Sohail TV" tvg-logo="https://sohailtv.com/wp-content/uploads/2022/08/Logo.webp" group-title="Afghan",Sohail TV
 https://iptv.sohailtv.com/sohailtv/playlist.m3u8
