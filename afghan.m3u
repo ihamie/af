@@ -1,0 +1,95 @@
+#EXTM3U
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Afghan Theatre" tvg-logo="https://jadootv.com/wp-content/themes/jadootv/assets/img/Logos/Afghan/AfghanTheater.jpg" group-title="Afghan",Afghan Theatre
+https://live20.bozztv.com/akamaissh101/ssh101/afghantheatretv/playlist.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="Amu TV" tvg-logo="https://amu.tv/wp-content/uploads/2022/06/logo-op.png" group-title="Afghan",Amu TV
+https://jmc-live.ercdn.net/amutv/amutv_720p.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="Shamshad TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Shamshad2.png/revision/latest?cb=20200803232906" group-title="Afghan",Shamshad TV
+https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="Tuti TV" tvg-logo="https://image.roku.com/developer_channels/prod/702e4dc06e2fa29e9cc7617c0ada3792afa47daf4191103bf0e07f5522a206a7.png" group-title="Afghan",Tuti TV
+http://hw4.jemtv.com/prov/tutitv/chunks.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="Afghan Javan" tvg-logo="https://image.winudf.com/v2/image/YWZnaGFuLmphdmFuLmhhc2hjb2Rfc2NyZWVuc2hvdHNfMF9hNjk1OWZm/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Afghan",Afghan Javan
+http://o2nbyj76y53k-hls-live.5centscdn.com/459_push_365/afganplaylistNaweentv/live/459_push_365afganplaylistNaweentv/chunks.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="Afghan Nobel TV" tvg-logo="https://yt3.googleusercontent.com/aJz1fGyoTfuDFQ2-dc3_FksVbozSMbqOlThzn3KuHYjye8cTRVCUl41O_jiBF0YVhZ94oaUG=s160-c-k-c0x00ffffff-no-rj" group-title="Afghan",Afghan Nobel TV
+https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="1TV Afghan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/1TV_Logo.webp/220px-1TV_Logo.webp.png" group-title="Afghan",1TV Afghan
+https://cdn1.live.af/live/1tv.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="Arezo TV" tvg-logo="https://pbs.twimg.com/profile_images/3585554691/0a92c6ee2e5e8cb463cb7b398c3d4750_400x400.png" group-title="Afghan",Arezo TV
+http://hw2.jemtv.com/app/arezotv/chunks.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="Sohail TV" tvg-logo="https://sohailtv.com/wp-content/uploads/2022/08/Logo.webp" group-title="Afghan",Sohail TV
+https://iptv.sohailtv.com/sohailtv/playlist.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="Omid TV" tvg-logo="https://omidtv24.com/wp-content/uploads/2020/12/unnamed-1.jpg" group-title="Afghan",Omid TV
+http://2nbyjj2by53k-hls-live.5centscdn.com/OmidTV24/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Tolo News" tvg-logo="https://hrf.org/wp-content/uploads/2021/06/https3A2F2Fs3-us-west-2.amazonaws.com2Fmaven-user-photos2Fa6857059-c740-457b-8f2d-3c8d5db59388q40h382.1803278688525.jpg" group-title="Afghan",Tolo News
+https://cdn1.live.af/live/tolonewstv.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="Afghanistan TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_LJx-trSwnc8I-4q2vEq0VgBuipqJsxcQFQ&s.png" group-title="Afghan",Afghanistan TV
+https://hls.afintl.com/hls/stream.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="Faza TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo_1IkEx6Xwb_3SmA0MWUdxcPXtf0D7meKJg&s.png" group-title="Afghan",Faza TV
+https://cdn1.live.af/live/fazatv.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="Tolo TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/AJLlDp2oDfBOPyuDB7LowlVRHfInpaYtMOn6Zqh7WA%3Ds900-mo-c-c0xffffffff-rj-k-no.jpg/250px-AJLlDp2oDfBOPyuDB7LowlVRHfInpaYtMOn6Zqh7WA%3Ds900-mo-c-c0xffffffff-rj-k-no.jpg" group-title="Afghan",Tolo TV
+https://cdn1.live.af/live/tolotv.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="ATN Afghanistan" tvg-logo="https://www.abu.org.my/wp-content/uploads/2019/05/atn.jpeg" group-title="Afghan",ATN Afghanistan
+https://cdn1.live.af/live/atntvabr.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="Ariana International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ariana_Afghanistan_TV.png" group-title="Afghan",Ariana International
+http://hw4.jemtv.com/prov/Arianaint/chunks.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="AMC TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxD1WCVUgGoscylTYpVKs9xpbAxL1TpE6wiA&s.png" group-title="Afghan",AMC TV
+https://amchls.wns.live/hls/stream.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="Music Time TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ78DppvAF_2dEJxQu8uqTELo17Pd84JfvkAnwgWR1j7oD4DH7lX5j8z2tWDQltzfuaVgM&usqp=CAU.jpg" group-title="Afghan",Music Time TV
+http://2nbyjj2by53k-hls-live.5centscdn.com/783_push_403/9dd8b07c957bd058ddcf9fd698c3406b.sdp/playlist.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="Bahar TV" tvg-logo="https://bahartv-af.com/wp-content/uploads/2017/01/IMG_1864-2.png" group-title="Afghan",Bahar TV
+https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="Payam-e-Afghan" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Payame-afghan.jpg/220px-Payame-afghan.jpg" group-title="Afghan",Payam-e-Afghan
+https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/chunks.m3u8#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-id="21" tvg-name="Zarin TV" tvg-logo="https://zarintv.com/wp-content/uploads/2024/01/Zarin-TV-Logo.png" group-title="Afghan",Zarin TV
+https://rpn3.bozztv.com/cus01/esh-zarintv-push/esh-zarintv-push/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-id="22" tvg-name="PMC Music" tvg-logo="https://www.pmc.tv/assets/upload/pmc.png" group-title="Afghan",PMC Music
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="23" tvg-name="RTA TV" tvg-logo="https://rta.af/artmedia/2022/12/rta-logo-final.png" group-title="Afghan",RTA TV
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/variant.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="RTA Sport" tvg-logo="https://rta.af/artmedia/2022/12/rta-logo-final.png" group-title="Afghan",RTA Sport
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+#EXTINF:-1 tvg-id="25" tvg-name="RTA News" tvg-logo="https://rta.af/artmedia/2022/12/rta-logo-final.png" group-title="Afghan",RTA News
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/variant.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="RTA Education" tvg-logo="https://rta.af/artmedia/2022/12/rta-logo-final.png" group-title="Afghan",RTA Education
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA4)/variant.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="Payvand TV" tvg-logo="" group-title="Afghan",Payvand TV
+https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="Bravo Farsi" tvg-logo="https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg" group-title="Afghan",Bravo Farsi
+https://bravoohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="Payam Javan TV" tvg-logo="" group-title="Afghan",Payam Javan TV
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="Afghan Time" tvg-logo="" group-title="Afghan",Afghan Time
+https://live.relentlessinnovations.net:1936/afghantime/afghantime/playlist.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="Kayhan TV" tvg-logo="https://i.imgur.com/2MDjU7x.png" group-title="Afghan",Kayhan TV
+https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="Watan-e-Maa TV" tvg-logo="https://i.ibb.co/1rDrKJG/Watan-E-Maa-Tv-Logo-300-Dpi.png" group-title="Afghan",Watan-e-Maa TV
+https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="FX1 Farsi" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-1.png" group-title="Afghan",FX1 Farsi
+https://fxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="Sahar TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Saharfirst.jpg" group-title="Afghan",Sahar TV
+https://ncdn.telewebion.com/saharafghan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="35" tvg-name="iFilm" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/1/1d/Ifilm.png" group-title="Afghan",iFilm
+https://ncdn.telewebion.com/ifilm/live/playlist.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="Maah TV" tvg-logo="https://tv.paradisesteelbh.com/wp-content/uploads/2025/01/maah.jpg" group-title="Afghan",Maah TV
+https://hls.maahtv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="Pamir TV" tvg-logo="https://tv.paradisesteelbh.com/wp-content/uploads/2025/01/pamir.jpg" group-title="Afghan",Pamir TV
+https://live.pamirtv.com/stream/ptv.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="Dunyah TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Dunya_News.jpg" group-title="Afghan",Dunyah TV
+https://dunyanhls.wns.live/hls/stream.m3u8
